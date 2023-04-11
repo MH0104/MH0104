@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MH0104<br>
+- 👋 Hi, I’m Mia! <br>
 - 👀 I’m interested in: <br>
 astrologie<br>
 fashion<br>
