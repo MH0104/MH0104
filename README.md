@@ -1,7 +1,8 @@
 <div align="center" >
    <h1>Hi, I’m Mia!</h1>
 </div>
-![GitHub Pic](./pictures/github_pic.jpg)
+![Beschreibung des Bildes](./pictures/github_pic.jpg)
+
 
 
      🌻<!---
