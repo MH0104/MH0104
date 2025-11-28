@@ -50,11 +50,12 @@ Second-year application developer apprentice with a focus on back-end developmen
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mia-Heitmann&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=ff92df&text_color=ffffff&bg_color=0d0d0d00" alt="Stats" />
+![Mia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mia-Heitmann&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=ff92df&text_color=ffffff&bg_color=0d0d0d00)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Heitmann&layout=compact&theme=dracula&title_color=ff79c6&text_color=ffffff&bg_color=0d0d0d00" alt="Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mia-Heitmann&layout=compact&theme=dracula&title_color=ff79c6&text_color=ffffff&bg_color=0d0d0d00)
 
 </div>
+
 
 ---
 
