@@ -54,7 +54,7 @@ Rider, Visual Studio, VS Code
 ## Find Me 🌷
 
 * **Website:** [mia-heitmann.de](https://mia-heitmann.de)
-* **LinkedIn:** [Mia Heitmann](https://linkedin.com/in/mia-heitmann)
+* **LinkedIn:** [Mia Heitmann](https://www.linkedin.com/in/mia-heitmann-41b44b362)
 
 ---
 
