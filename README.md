@@ -10,15 +10,22 @@ Second-year application developer apprentice with a focus on back-end developmen
 
 ---
 
-## Tech Stack 💞
+### Languages & Frameworks
 
-**Languages & Frameworks**
-C#, .NET, Blazor, MAUI
-JavaScript, HTML, CSS, jQuery
-Python (Basics)
+![C#](https://img.shields.io/badge/C%23-ff6ec7?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-ff92df?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-ffb3e6?style=for-the-badge\&logo=blazor\&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-ff6ec7?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff92df?style=for-the-badge\&logo=javascript\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ffb3e6?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-ff6ec7?style=for-the-badge\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff92df?style=for-the-badge\&logo=python\&logoColor=white)
 
-**Tools**
-Rider, Visual Studio, VS Code
+### Tools
+
+![Rider](https://img.shields.io/badge/Rider-ff6ec7?style=for-the-badge\&logo=jetbrains\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-ff92df?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-ffb3e6?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
