@@ -5,8 +5,7 @@
 </p>
 
 ## About Me 💗 
-
-Second-year application developer apprentice with a focus on back-end development, C#, APIs, and clean UI concepts. I prefer minimalistic and soft pink aesthetics.
+Third-year application developer apprentice with a focus on back-end development, C#, APIs, and clean UI concepts. I prefer minimalistic and soft pink aesthetics.
 
 ---
 
